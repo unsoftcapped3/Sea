@@ -18,13 +18,13 @@
             {
                 "title": "Usage",
                 "url": "runners/usage",
-                "file": "/Runners/Usage.md",
+                "file": "Runners/Usage.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Shore REPL",
                 "url": "runners/SR",
-                "file": "/Runners/SR.md",
+                "file": "Runners/SR.md",
                 "date": "1/29/23"
             }
         ]
@@ -40,19 +40,19 @@
                     {
                         "title": "For Loops",
                         "url": "core/loops/for",
-                        "file": "/Core/Loops/For.md",
+                        "file": "Core/Loops/For.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "If Loops",
                         "url": "core/loops/if",
-                        "file": "/Core/Loops/If.md",
+                        "file": "Core/Loops/If.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "While Loops",
                         "url": "core/loops/while",
-                        "file": "/Core/Loops/While.md",
+                        "file": "Core/Loops/While.md",
                         "date": "1/29/23"
                     }
                 ]
@@ -64,55 +64,55 @@
                     {
                         "title": "Array Types",
                         "url": "core/types/arrays",
-                        "file": "/Core/Types/Arrays.md",
+                        "file": "Core/Types/Arrays.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "List Types",
                         "url": "core/types/lists",
-                        "file": "/Core/Types/Lists.md",
+                        "file": "Core/Types/Lists.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Dictionary Types",
                         "url": "core/types/dictionary",
-                        "file": "/Core/Types/Dictionaries.md",
+                        "file": "Core/Types/Dictionaries.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Boolean",
                         "url": "core/types/boolean",
-                        "file": "/Core/Types/Boolean.md",
+                        "file": "Core/Types/Boolean.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Float",
                         "url": "core/types/float",
-                        "file": "/Core/Types/Float.md",
+                        "file": "Core/Types/Float.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Integer",
                         "url": "core/types/integer",
-                        "file": "/Core/Types/Integer.md",
+                        "file": "Core/Types/Integer.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "String",
                         "url": "core/types/string",
-                        "file": "/Core/Types/String.md",
+                        "file": "Core/Types/String.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Void",
                         "url": "core/types/void",
-                        "file": "/Core/Types/Void.md",
+                        "file": "Core/Types/Void.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Internal Types",
                         "url": "core/types/internal",
-                        "file": "/Core/Types/Internal.md",
+                        "file": "Core/Types/Internal.md",
                         "date": "1/29/23"
                     }
                 ]
@@ -120,25 +120,25 @@
             {
                 "title": "Functions",
                 "url": "core/functions",
-                "file": "/Core/Functions.md",
+                "file": "Core/Functions.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Global Statements",
                 "url": "core/global-statements",
-                "file": "/Core/GlobalStatements.md",
+                "file": "Core/GlobalStatements.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Keywords",
                 "url": "core/keywords",
-                "file": "/Core/Keywords.md",
+                "file": "Core/Keywords.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Operators",
                 "url": "core/operators",
-                "file": "/Core/Operators.md",
+                "file": "Core/Operators.md",
                 "date": "1/29/23"
             }
         ]
