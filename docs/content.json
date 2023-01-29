@@ -2,13 +2,13 @@
     {
         "title": "Getting Started",
         "url": "getting-started",
-        "file": "GettingStarted.md",
+        "file": "docs/GettingStarted.md",
         "date": "1/29/23"
     },
     {
         "title": "Reference",
         "url": "reference",
-        "file": "Reference.md",
+        "file": "docs/Reference.md",
         "date": "1/29/23"
     },
     {
@@ -18,13 +18,13 @@
             {
                 "title": "Usage",
                 "url": "runners/usage",
-                "file": "/Runners/Usage.md",
+                "file": "docs/Runners/Usage.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Shore REPL",
                 "url": "runners/SR",
-                "file": "/Runners/SR.md",
+                "file": "docs/Runners/SR.md",
                 "date": "1/29/23"
             }
         ]
@@ -40,19 +40,19 @@
                     {
                         "title": "For Loops",
                         "url": "core/loops/for",
-                        "file": "/Core/Loops/For.md",
+                        "file": "docs/Core/Loops/For.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "If Loops",
                         "url": "core/loops/if",
-                        "file": "/Core/Loops/If.md",
+                        "file": "docs/Core/Loops/If.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "While Loops",
                         "url": "core/loops/while",
-                        "file": "/Core/Loops/While.md",
+                        "file": "docs/Core/Loops/While.md",
                         "date": "1/29/23"
                     }
                 ]
@@ -64,55 +64,55 @@
                     {
                         "title": "Array Types",
                         "url": "core/types/arrays",
-                        "file": "/Core/Types/Arrays.md",
+                        "file": "docs/Core/Types/Arrays.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "List Types",
                         "url": "core/types/lists",
-                        "file": "/Core/Types/Lists.md",
+                        "file": "docs/Core/Types/Lists.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Dictionary Types",
                         "url": "core/types/dictionary",
-                        "file": "/Core/Types/Dictionaries.md",
+                        "file": "docs/Core/Types/Dictionaries.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Boolean",
                         "url": "core/types/boolean",
-                        "file": "/Core/Types/Boolean.md",
+                        "file": "docs/Core/Types/Boolean.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Float",
                         "url": "core/types/float",
-                        "file": "/Core/Types/Float.md",
+                        "file": "docs/Core/Types/Float.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Integer",
                         "url": "core/types/integer",
-                        "file": "/Core/Types/Integer.md",
+                        "file": "docs/Core/Types/Integer.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "String",
                         "url": "core/types/string",
-                        "file": "/Core/Types/String.md",
+                        "file": "docs/Core/Types/String.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Void",
                         "url": "core/types/void",
-                        "file": "/Core/Types/Void.md",
+                        "file": "docs/Core/Types/Void.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Internal Types",
                         "url": "core/types/internal",
-                        "file": "/Core/Types/Internal.md",
+                        "file": "docs/Core/Types/Internal.md",
                         "date": "1/29/23"
                     }
                 ]
@@ -120,25 +120,25 @@
             {
                 "title": "Functions",
                 "url": "core/functions",
-                "file": "/Core/Functions.md",
+                "file": "docs/Core/Functions.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Global Statements",
                 "url": "core/global-statements",
-                "file": "/Core/GlobalStatements.md",
+                "file": "docs/Core/GlobalStatements.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Keywords",
                 "url": "core/keywords",
-                "file": "/Core/Keywords.md",
+                "file": "docs/Core/Keywords.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Operators",
                 "url": "core/operators",
-                "file": "/Core/Operators.md",
+                "file": "docs/Core/Operators.md",
                 "date": "1/29/23"
             }
         ]
