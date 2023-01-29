@@ -1,6 +1,8 @@
 /.vscode
 /.idea
 
+/docs/node_modules
+
 /Shore/.idea
 
 /Shore/Shore/bin
