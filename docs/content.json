@@ -2,13 +2,13 @@
     {
         "title": "Getting Started",
         "url": "getting-started",
-        "file": "/GettingStarted.md",
+        "file": "GettingStarted.md",
         "date": "1/29/23"
     },
     {
         "title": "Reference",
         "url": "reference",
-        "file": "/Reference.md",
+        "file": "Reference.md",
         "date": "1/29/23"
     },
     {
