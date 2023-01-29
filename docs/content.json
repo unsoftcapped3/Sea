@@ -2,13 +2,13 @@
     {
         "title": "Getting Started",
         "url": "getting-started",
-        "file": "docs/Sea/GettingStarted.md",
+        "file": "/docs/Sea/GettingStarted.md",
         "date": "1/29/23"
     },
     {
         "title": "Reference",
         "url": "reference",
-        "file": "docs/Sea/Reference.md",
+        "file": "/docs/Sea/Reference.md",
         "date": "1/29/23"
     },
     {
@@ -18,13 +18,13 @@
             {
                 "title": "Usage",
                 "url": "runners/usage",
-                "file": "docs/Sea/Runners/Usage.md",
+                "file": "/docs/Sea/Runners/Usage.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Shore REPL",
                 "url": "runners/SR",
-                "file": "docs/Sea/Runners/SR.md",
+                "file": "/docs/Sea/Runners/SR.md",
                 "date": "1/29/23"
             }
         ]
@@ -40,19 +40,19 @@
                     {
                         "title": "For Loops",
                         "url": "core/loops/for",
-                        "file": "docs/Sea/Core/Loops/For.md",
+                        "file": "/docs/Sea/Core/Loops/For.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "If Loops",
                         "url": "core/loops/if",
-                        "file": "docs/Sea/Core/Loops/If.md",
+                        "file": "/docs/Sea/Core/Loops/If.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "While Loops",
                         "url": "core/loops/while",
-                        "file": "docs/Sea/Core/Loops/While.md",
+                        "file": "/docs/Sea/Core/Loops/While.md",
                         "date": "1/29/23"
                     }
                 ]
@@ -64,55 +64,55 @@
                     {
                         "title": "Array Types",
                         "url": "core/types/arrays",
-                        "file": "docs/Sea/Core/Types/Arrays.md",
+                        "file": "/docs/Sea/Core/Types/Arrays.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "List Types",
                         "url": "core/types/lists",
-                        "file": "docs/Sea/Core/Types/Lists.md",
+                        "file": "/docs/Sea/Core/Types/Lists.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Dictionary Types",
                         "url": "core/types/dictionary",
-                        "file": "docs/Sea/Core/Types/Dictionaries.md",
+                        "file": "/docs/Sea/Core/Types/Dictionaries.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Boolean",
                         "url": "core/types/boolean",
-                        "file": "docs/Sea/Core/Types/Boolean.md",
+                        "file": "/docs/Sea/Core/Types/Boolean.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Float",
                         "url": "core/types/float",
-                        "file": "docs/Sea/Core/Types/Float.md",
+                        "file": "/docs/Sea/Core/Types/Float.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Integer",
                         "url": "core/types/integer",
-                        "file": "docs/Sea/Core/Types/Integer.md",
+                        "file": "/docs/Sea/Core/Types/Integer.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "String",
                         "url": "core/types/string",
-                        "file": "docs/Sea/Core/Types/String.md",
+                        "file": "/docs/Sea/Core/Types/String.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Void",
                         "url": "core/types/void",
-                        "file": "docs/Sea/Core/Types/Void.md",
+                        "file": "/docs/Sea/Core/Types/Void.md",
                         "date": "1/29/23"
                     },
                     {
                         "title": "Internal Types",
                         "url": "core/types/internal",
-                        "file": "docs/Sea/Core/Types/Internal.md",
+                        "file": "/docs/Sea/Core/Types/Internal.md",
                         "date": "1/29/23"
                     }
                 ]
@@ -120,25 +120,25 @@
             {
                 "title": "Functions",
                 "url": "core/functions",
-                "file": "docs/Sea/Core/Functions.md",
+                "file": "/docs/Sea/Core/Functions.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Global Statements",
                 "url": "core/global-statements",
-                "file": "docs/Sea/Core/GlobalStatements.md",
+                "file": "/docs/Sea/Core/GlobalStatements.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Keywords",
                 "url": "core/keywords",
-                "file": "docs/Sea/Core/Keywords.md",
+                "file": "/docs/Sea/Core/Keywords.md",
                 "date": "1/29/23"
             },
             {
                 "title": "Operators",
                 "url": "core/operators",
-                "file": "docs/Sea/Core/Operators.md",
+                "file": "/docs/Sea/Core/Operators.md",
                 "date": "1/29/23"
             }
         ]
